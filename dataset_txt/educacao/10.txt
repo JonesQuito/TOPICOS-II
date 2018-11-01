@@ -1,56 +1,16 @@
-Educação pelo Brasil, edição 209
+Sobre cérebros e computadores
 
-Desigualdade começa bem antes da escola. E aumenta a cada passo, por Reginaldo Moraes – GGN
-“Famílias disfuncionais produzem crianças prejudicadas. Uma política bem sucedida de formação de habilidades envolve uma política para a família”.
+Há alguns anos, a revista Nature publicou um estudo realizado com professores em cinco diferentes contextos (Reino Unido, Holanda, Grécia, Turquia e China), nos quais foi avaliada a concordância dos profissionais em relação aos chamados neuromitos — afirmações equivocadas sobre o cérebro que acabam se tornando senso comum. Os números são alarmantes. Por exemplo, a maioria esmagadora, acima de 95%, acredita que os alunos aprendem melhor quando recebem informações em seu estilo preferido de aprendizagem – visual, auditivo ou sinestésico. Esta concepção não encontra nenhum respaldo na neurociência. No ano passado, um grupo de aproximadamente 30 neurocientistas (que incluía nomes como Steven Pinker, Colin Blakemore e Uta Frith), utilizando o caso dos estilos de aprendizagem, escreveu uma carta ao jornal inglês The Guardian alertando os educadores a respeito da necessidade de promover um olhar crítico sobre os supostos benefícios educacionais baseados na neuro­ciência. Outra ideia também equivocada e bastante difundida é a crença de que o cérebro é um computador.
 
-STF vai julgar se pais podem tirar os filhos da escola e ensiná-los em casa – CBN
-Eles não querem que seus filhos aprendam sobre evolução e acham que a teoria do criacionismo é a mais correta.
-Pós-graduandos questionam exigência de inglês para estudar em Portugal – Folha de São Paulo
-Capes passou a exigir idioma após identificar deficiência para a produção científica
-Universidade americana anuncia que vai deixar de cobrar mensalidade de estudantes de medicina – G1
-Medida, que cortou em dois terços o valor do curso, tem como objetivo reduzir o número de estudantes que optam por especialidades médicas mais lucrativas para poder pagar a dívida com a faculdade.
-A difícil tarefa de escrever bem – CBN
-Imaginamos que seja fácil para um escritor escrever, mas a verdade é que quase nunca é assim.
-Maioria dos secretários de Educação tem até dois anos de experiência – Agência Brasil
-Apesar da pouca experiência com gestão municipal, a maior parte dos secretários (91%) têm formação como professor – 50% em pedagogia e 41% fizeram licenciatura.
+Gerald Edelman, Prêmio Nobel de Fisiologia ou Medicina de 1972, dizia que o cérebro é o objeto material mais complicado do universo. Realmente, compreender e explicar o funcionamento da matéria viva não é uma tarefa fácil. Ao longo da história, surgiram inúmeras metáforas na tentativa de simplificar fenômenos complexos dos seres vivos. No caso do cérebro, é interessante observarmos como as metáforas mudaram, não apenas por ter sido adquirida uma melhor compreensão de seu funcionamento, mas porque elas estão intimamente atreladas ao desenvolvimento tecnológico da época. O funcionamento cerebral, inicialmente explicado por princípios hidráulicos, mais tarde virou uma rede telefônica, para posteriormente ser comparado a um supercomputador. Atualmente, conceitos da física quântica têm gerado novas metáforas, que talvez cumpram melhor sua função do que as anteriores.
 
-A menina de 3 anos que entrou para clube internacional de superdotados – G1
-Ophelia tem um QI de 171, bem acima da média, e começou a dar sinais de que era muito inteligente quando tinha só 8 meses de idade.
-Estudantes pedem a revogação da Reforma do Ensino Médio em São Paulo – Carta Educação
-Os jovens reivindicam, sobretudo, a revogação da Reforma do Ensino Médio, pedem por diálogo no processo de elaboração da Base Nacional Comum Curricular da etapa, além de mais investimento e recursos para as escolas.
+A imagem do cérebro como um computador não reflete a essência da dinâmica cerebral. De acordo com os modelos computacionais que o representariam, os sinais ambientais fornecem informações de entrada sem nenhuma ambiguidade. O cérebro possuiria uma série de programas, os quais seriam capazes de modificar estados baseados nas informações trazidas pelas entradas, fornecendo saídas apropriadas. Caso tudo isso fosse verdade, a previsibilidade das saídas, ou seja, do comportamento humano, seria praticamente absoluta. Entretanto, não é assim que acontece. Sabemos que as entradas de informação não são desprovidas de ambiguidade. Além disso, o mundo não é uma fita ou um gabarito com uma
+sequência fixa de símbolos que o cérebro tem de ler.
 
-Centro D3E busca aproximar academia e gestores públicos – Porvir
-Lançada no 7° Seminário Internacional do Centro Lemann, iniciativa pretende facilitar a tomada de decisões por secretarias e sistematizar casos de sucesso na educação.
+Ainda assim, não deixa de ser tentador estabelecer uma analogia entre os circuitos de um computador e aqueles formados pelos neurônios, os quais começaram a ser dissecados no século 19 com a brilhante contribuição de um médico espanhol. Santiago Ramón y Cajal, também ganhador do Nobel de Medicina, em 1906, estava à frente de seu tempo – não é à toa que é chamado de “pai da neurociência moderna”. Mesmo usando microscópios rudimentares, Cajal produziu belíssimos desenhos de células nervosas e suas ramificações. Seu trabalho foi fundamental para o desenvolvimento da concepção atual das conexões existentes entre os neurônios, as sinapses. Ele acreditava que os neurônios poderiam modificar sua estrutura física a partir de contínuos estímulos que recebem. O termo ginástica cerebral, utilizado por ele para falar a respeito dessas mudanças, foi motivo de zombaria na época. Afinal, apenas células musculares sofrem hipertrofia. Na verdade, hipertrofia neuronal não acontece, mas a estrutura física dos neurônios e, consequentemente, das redes que são por eles formadas, muda continuamente.
 
-A menina negra que transformou o bullying em negócio de sucesso – G1
-Americana Kheris Rogers transformou o bullying na escola em motivação para abrir loja de roupas e inspiração para slogans de camisetas.
-Seminário Conhecer revela visões diversas sobre futuro digital – Agência Brasil
-Papel do homem nesse cenário domina debates durante evento em Maceió.
-Da sala de aula para o YouTube, canais científicos viram mania na França – G1
-Na contramão da sala de aula, filósofos e escritores deixam a lousa e se transformam em youtubers famosos, com milhares de visualizações diárias. A receita: transformar conceitos herméticos de Física, Química, Filosofia e outros assuntos em conteúdos acessíveis para a geração conectada
-A importância da Sociologia no ensino médio – Pragmatismo Político
-Estudo revelam que o acesso à Sociologia escolar promove condições para que os alunos ampliem sua capacidade de leitura do mundo social, colaborando para dois grandes objetivos da educação brasileira destacados pela LDB (1996)
-O que outros países ensinam sobre leis de proteção de dados – Nexo
-Nova norma aprovada no Senado brasileiro é baseada em modelo europeu, reconhecido como o mais completo do mundo
-6 desafios para transformar a educação brasileira nos próximos 4 anos – Povir
+Cajal comparou o cérebro a um jardim repleto de incontáveis árvores, que podem multiplicar seus galhos e fazer com que suas raízes cresçam mais profundamente, produzindo diariamente requintadas flores e frutos. Essas mudanças descritas de maneira poética por Cajal podem significar o fortalecimento ou enfraquecimento das conexões estabelecidas entre essas células. Atualmente, técnicas mais sofisticadas possibilitam a visualização dessas mudanças em encéfalos de animais de laboratório. A plasticidade neural é mais ampla do que se imaginava, principalmente em alguns períodos do desenvolvimento, como a primeira infância e a puberdade. A influência ambiental, representada por nossas experiências, é capaz de alterar o funcionamento cerebral. Consequentemente, a estrutura física do cérebro também se altera. Em outras palavras, nossas experiências esculpem continuamente os circuitos cerebrais; nosso cérebro hoje será diferente do que ele foi ontem.
 
-Pesquisadores de Stanford (EUA) apontam alguns dos principais desafios que o país terá que enfrentar para melhorar seus resultados educacionais.
-Ajustar orçamento do MEC pela inflação não é priorizar a educação, dizem especialistas – Carta Educação
-Após sancionar LDO, governo voltou atrás da decisão de vetar o reajuste do orçamento do Ministério da Educação pela inflação.
-Para que a Educação seja, de fato, prioridade – Zero Hora
-“Nosso voto será decisivo para reestruturar o sistema educacional quanto à governança, à gestão e aos mecanismos de financiamento da Educação Básica.”
-Para “combater o marxismo”, Bolsonaro propõe ensino a distância – Pragmatismo Político
-Jair Bolsonaro afirma que implementará o ensino a distância desde o ensino fundamental até o universitário.
-Educador destaca tecnologia no aprendizado ao abrir evento em Maceió  – Agência Brasil
-“Nosso objetivo não é educar, é promover aprendizagem. O foco não é o educador, mas quem está aprendendo.”
-
-Pessoas sem a formação adequada em computação não compreendem o mundo hoje – Zero Hora
-“A nação que não oferece essa formação aos seus cidadãos perderá a capacidade de produzir ciência”.
-Estudantes criam equipamentos para aumentar acessibilidade de cegos – Estado de Minas
-O objetivo é alertar deficientes visuais com aviso de voz quando o ônibus desejado está chegando.
-Negro quilombola se forma em Medicina e supera preconceitos – Pragmatismo Político
-Negro, quilombola, filho de lavradores e integrante de uma família pobre composta por 11 irmãos, João Costa supera preconceitos e se forma em Medicina.
- MEC lança editais para construção de 18 escolas de educação indígena no Amazonas – Radioagência Nacional
-Inicialmente, serão construídos 13 espaços em comunidades diferentes de São Gabriel da Cachoeira e outros cinco em Santa Isabel do Rio Negro.
+Para aqueles que insistem em fazer comparações entre cérebros e máquinas, dizendo que o cérebro é o hardware do computador e a atividade mental o soft­ware, faço uma provocação: alguém compraria um computador cujo hardware mudasse a cada vez que fosse utilizado? É isto que acontece com o cérebro. Por este motivo, ao contrário do que muitos acreditam, o cérebro não é um computador, não funciona como tal e sua essência é muito distinta dos princípios do mundo digital. E é nessa essência que reside a riqueza da espécie humana.
 
 

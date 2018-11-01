@@ -1,19 +1,55 @@
-Maria Helena Guimarães deixa o Ministério da Educação
+Quais os desafios dos professores para incorporar as novas tecnologias no ensino
 
-A secretária-executiva do Ministério da Educação (MEC), Maria Helena Guimarães de Castro, pediu exoneração do cargo e deve ficar apenas até o fim da semana. Com a saída do ex-ministro Mendonça Filho (DEM-PE) no mês passado, esperava-se que ela fosse promovida a ministra, o que não ocorreu.
 
-+ Temer diz que quem for contra o governo terá de dizer: 'Sou contra essa inflação ridícula de 3%'
+A incorporação das novas tecnologias no ensino tornou-se um dos principais debates da educação na atualidade. Robótica, jogos eletrônicos, inteligência artificial e realidade aumentada são apenas algumas das novidades que têm movimentado o mercado educacional e sido inseridas nas escolas, especialmente na rede privada.
 
-Maria Helena é um dos nomes mais expressivos do PSDB na educação, foi secretária-executiva no MEC e presidente do Instituto Nacional de Pesquisas Educacionais (Inep) no governo Fernando Henrique Cardoso e secretária estadual da pasta no governo de José Serra. O governo de Michel Temer preferiu escolher como ministro o ex-secretário de educação básica do MEC, Rossieli Soares da Silva, que tem perfil mais técnico. A saída de Maria Helena consolida o afastamento do PSDB do governo federal.
+Na realidade da sala de aula, porém, ainda há muita discussão sobre como integrar as novidades ao dia a dia escolar. Por mais que a desconfiança docente com relação ao uso das novas tecnologias venha diminuindo, ainda há muitos desafios para incorporar essas ferramentas de forma efetiva, contribuindo para a aprendizagem dos alunos.
 
-“Não fazia mais sentido continuar”, disse ela ao Estado. Maria Helena ficou cerca de um mês ainda no governo depois da saída de Mendonça para fazer a transição para o novo ministro. Internamente, sabe-se que era ela a responsável pelas políticas no ministério.
+Para compreender quais são esses obstáculos, Educação ouviu professores da educação básica, que falaram sobre o panorama da área e compartilharam suas experiências com o uso dos recursos tecnológicos em sala de aula. Entre as principais dificuldades apontadas pelos educadores está a formação docente insuficiente para a área.
 
-Durante sua gestão, que começou em maio de 2016, o governo editou medida provisória sobre a reforma do ensino médio e aprovou a Base Nacional Comum Curricular (BNCC) do ensino fundamental – documento inédito que prevê os objetivos de aprendizagem em cada ano escolar, que vinha sendo discutido desde o governo Dilma Rousseff. A equipe de Maria Helena finalizou também a parte do ensino médio da BNCC, que passa ainda por discussões no Conselho Nacional de Educação (CNE).
+“As novas tecnologias ajudam no aprendizado a partir do momento em que o professor se apropria desse conhecimento”, avalia Diego Trujillo, professor de inglês e coordenador de tecnologia no Colégio Ítalo. “Mas vejo que a formação ainda é carente. Há um desejo do professor de aprender, mas ele não sabe para onde ou como ir.”
 
-Maria Helena é socióloga e professora aposentada da Universidade Estadual de Campinas (Unicamp). Durante o governo FHC, foi responsável – com o ex-ministro Paulo Renato Souza – pela implementação das políticas de avaliação no País, como a reorganização do Sistema de Avaliação da Educação Básica (Saeb) e a criação do Exame Nacional do Ensino Médio (Enem).
+Os números demonstram que a formação é mesmo um dos grandes desafios no que diz respeito ao uso da tecnologia. De acordo com a pesquisa TIC Educação 2016, do Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br), 54% dos professores não cursaram na graduação disciplina específica sobre como usar computador e internet em atividades com os alunos. Além disso, 70% não realizaram formação continuada sobre o tema no ano anterior ao levantamento. Dos que realizaram, 20% afirmaram que a capacitação “contribuiu muito” para a atualização na área.
 
-Outro nome ligado ao PSBD no MEC, Maria Inês Fini, que é presidente do Inep e amiga de Maria Helena, deve continuar no cargo. O Inep é uma autarquia do ministério responsável pelas avaliações, entre elas o Enem.
+Nesse cenário, a busca por novas formas de explorar os recursos tecnológicos acaba por depender da iniciativa do próprio professor. Na visão de Trujillo — que complementou sua formação com cursos de capacitação —, a própria escola pode ajudar a reverter o quadro oferecendo apoio ao docente. “É necessário que a equipe pedagógica tenha um especialista em tecnologia educacional. Esse é um novo profissional de extrema importância”, afirma.
 
-Maria Helena nega que sua saída tenha ligação com o PSDB. “O presidente sempre me apoiou, mandou-me uma carta de agradecimento muito bonita e justa. Não tenho reclamação nenhuma dele e nem do ministro Mendonça”. Ela diz que sai tranquila porque conseguiu fazer as políticas que pretendia no ministério.
+Resistência 
 
-Vai voltar para Campinas e atuar como consultora. “A sensação que eu estou é de que terminou um ciclo da minha vida, não tenho interesse mais de trabalhar em governo.” Maria Helena também não está participando da elaboração do programa de educação do candidato a presidência da República pelo PSDB, Geraldo Alckmin.
+Dada a formação insuficiente, torna-se mais difícil explorar as potencialidades pedagógicas das novas tecnologias. E, em muitos casos, isso pode levar a uma certa resistência com relação ao seu uso, fazendo com que métodos mais tradicionais sigam sendo reproduzidos.
+
+“O maior desafio atualmente é os professores conseguirem notar que a tecnologia pode tornar o processo de ensino-aprendizagem melhor”, opina Rafael Ribeiro, professor de biologia no Colégio Mater Dei.
+
+Para o educador, parte da desconfiança de alguns docentes com relação ao uso das novas tecnologias vem das mudanças que elas causam na própria rotina da aula. “É algo que tira o professor da zona de conforto. É uma ferramenta que precisa de estudo em casa, de um planejamento maior, de um período semanal que exige reflexão e estudo.”
+
+Outro fator que gera desconfiança é o medo de a tecnologia atuar como um distrator. No uso da internet, por exemplo, o receio é que os alunos acabem desviando a atenção do conteúdo para as redes sociais.
+
+Na visão de Edilene von Wallwitz, professora de língua portuguesa e alemão no Colégio Vértice, driblar o problema também passa pela formação docente. “O professor precisa dominar essas ferramentas, participar de cursos, se inteirar a respeito, praticar. É preciso estar embasado para manter a atenção do aluno”, analisa.
+
+Infraestrutura
+
+No caso da rede pública, há um problema ainda anterior à apropriação das novas tecnologias: a falta de infraestrutura. Segundo uma pesquisa de 2017 do movimento Todos pela Educação, 66% dos professores da rede apontam o número insuficiente de equipamentos como limitador no uso dos recursos tecnológicos no ensino. Além disso, 64% indicam a velocidade insuficiente da internet como restrição.
+
+“[Nas escolas públicas] temos o básico, que é internet na escola para documentação, secretaria. Para uso de aluno e professor, a gente não tem”, conta Regina de Freitas, professora de língua portuguesa na rede pública em Barão de Cocais (MG).
+
+Quando a escola dispõe do equipamento, podem surgir novos empecilhos — como a falta de manutenção. “A gente não consegue terminar o trabalho com o aluno porque o computador está com problema, a lousa digital tem algum defeito, a internet não funciona legal”, diz Angélica Guimarães, professora de língua portuguesa na rede pública em Campos do Jordão (SP). “Muitos professores optam por não utilizar [os recursos tecnológicos] para não perder tempo da aula. Às vezes, ao invés de otimizar o aprendizado, otimizar o tempo, acaba prejudicando.”
+
+O que eles fazem
+Regina de Freitas, professora de língua portuguesa na rede pública
+
+Regina criou, no ano passado, um projeto que incorporou o uso do WhatsApp para o estudo dos gêneros textuais. Para isso, ela criou grupos com os estudantes dos oitavo e nono anos, que passaram a mandar os textos produzidos em casa pelo aplicativo de mensagens. Com um projeto simples, ela afirma ter observado como resultados a facilitação da comunicação e um aumento da motivação das turmas. “Alguns alunos que já tinham gosto pela escrita me enviaram até outros textos, que não estavam relacionados com o gênero que eu estava pedindo. Eu aceitava e revisava”, conta. 
+
+Angélica Guimarães, professora de língua portuguesa na rede pública 
+
+Angélica afirma acreditar fielmente que as novas tecnologias possam contribuir com o processo de ensino-aprendizagem. A educadora estimula os alunos a usarem seus próprios celulares para fazer pesquisas e fotografias. Além disso, também usa o WhatsApp para criar grupos de estudos com os estudantes. “O aprendizado não cessa às 17h, quando acaba a aula. Ele se estende através dessas novas ferramentas”, afirma.
+
+ Edilene von Wallwitz, professora de língua portuguesa e alemão na rede privada 
+
+Edilene também é uma entusiasta do uso da tecnologia na educação, especialmente pela aproximação com o cotidiano dos adolescentes. A educadora utiliza, entre outras ferramentas, aplicativos que permitem gamificar as aulas — como o Kahoot. “O fator motivação, com jogos e competição, ajuda no aprendizado”, avalia. 
+
+Diego Trujillo, professor de inglês na rede privada 
+
+Uma das ferramentas utilizadas pelo educador é o Google Sala de Aula (Google classroom), serviço da Google que permite criar salas de aula virtuais, facilitando a comunicação com os estudantes e a organização de deveres de casa, por exemplo. Para ele, uma das vantagens dessa e de outras ferramentas digitais é a personalização do ensino. “Quando vejo que o aluno está com muita dificuldade, posso passar exercícios personalizados”, diz. 
+
+Rafael Ribeiro, professor de biologia na rede privada
+
+Rafael explora a tecnologia em sala de aula desde 2014. Entre as principais vantagens da utilização desses recursos, ele destaca a possibilidade de mostrar vídeos e modelos 3D aos alunos, o que facilita a visualização dos conteúdos estudados. Além disso, o educador busca utilizar ferramentas que otimizem processos. “Também aplico provas utilizando formulário Google, que corrige automaticamente as questões-testes. Já as dissertativas eu corrijo individualmente e envio a nota para o aluno por e-mail com o gabarito embaixo. Ou seja, todo esse processo ficou muito mais instantâneo.”

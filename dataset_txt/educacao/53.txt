@@ -1,28 +1,23 @@
-Alunos montam robô para fiscalizar o trânsito em frente à escola
+Educação pelo Brasil – nº 212
 
-Professor de Juazeiro do Norte (CE) conta como seus alunos do ensino fundamental usaram a programação para conscientizar motoristas que não respeitam as leis de trânsito
 
-Sou professor de lógica de programação no Colégio Paraíso, em Juazeiro do Norte (CE). Para aproveitar o Maio Amarelo, movimento internacional de conscientização para redução de acidentes de trânsito, que no Brasil é mobilizado todo ano pelo Denatran (Departamento Nacional de Trânsito), meus alunos desenvolveram um projeto de educação que envolve programação.
+Fundo Penitenciário Nacional vai destinar R$ 24 milhões para educação da população carcerária – Radioagência Nacional
+Atualmente o Brasil tem uma população carcerária em torno de 720 mil presos. Destes, somente 12% estudam.
 
-Na escola, nós estamos usando a tecnologia para resolver problemas. Em parceria com a Micro:bit Foundation, a Positivo trouxe para o Brasil a plataforma Micro:bit e pediu para que as escolas parceiras começassem a disseminar o uso da miniplaca programável dentro da sala de aula.
+A ciência perdida no incêndio do Museu Nacional – El País
+Além do fóssil mais antigo das Américas, local abrigava registros não digitalizados de línguas nativas que já não existem mais.
 
-Leia mais:
-– Computador de bolso da BBC chega ao Brasil para ensinar crianças a programar
-– Especial Educação Mão na Massa
-– Robô de sucata eletrônica cumpre missões para proteger a natureza
+O que é “Momo”? Perigos e instruções – Carta Educação
+Pais, mães e educadores podem e devem atuar nessas situações, mas com muita cautela.
 
-Os alunos aprenderam a programar, mas como a tecnologia por si não tem um fim, como coordenador de projetos eu propus que eles encontrassem uma aplicabilidade. Eles deveriam olhar para problemas que tínhamos no entorno na escola e pensar em uma solução.
+A professora transexual que trocou indenização de R$ 20 mil pela chance de dar aula a seus agressores – G1
+Natalha Claudinei Silva Nascimento acionou a Justiça por ter sido xingada e agredida em uma pastelaria de Brasília; mas a reparação veio na forma de uma sessão, cara a cara, sobre direitos humanos e questões de gênero.
 
-Eles perceberam que, no horário de entrada e saída da escola, muitos pais paravam o carro em cima da faixa de pedestre, mesmo sabendo que isso era errado. Então os alunos tiveram a ideia de montar o Agente:bit, um robô que conscientiza o cidadão a respeitar as leis de trânsito.
+Especialistas questionam critério mais rígido do MEC para nota do Saeb – EBC
+De acordo com a nova classificação divulgada pelo MEC, até o nível 3 o aprendizado é considerado insuficiente e até o 6, básico.
 
-Como protótipo inicial, eles programaram um robô com letreiro digital que, quando alguém estaciona no local proibido, exibe a mensagem: libere a faixa. É uma coisa muito simples, mas faz as pessoas se chocarem com o que estão fazendo, porque todo mundo sabe que é errado. Elas automaticamente saem da faixa, dão uma volta no quarteirão e procuram um lugar para estacionar.
+Alemanha tem déficit de 40 mil professores; ‘quadro é dramático’, diz presidente de associação – G1
+Cenário pode se agravar nos próximos anos. Uma controversa solução seria permitir que pessoas sem formação na área se tornem educadores.
 
-Para construir o corpo do robô, os alunos trabalharam conceitos de sustentabilidade e reutilizaram materiais, como papelão e tinta guache. Eles usaram objetos cotidianos que estavam a disposição deles.
-
-Após concluir o protótipo, os alunos colocaram o robozinho em frente à escola, ao lado da faixa de pedestre. Com isso, conseguimos impactar os pais e fazer um trabalho de educação no trânsito.
-
-A ideia é alertar para coisas simples. Isso também vale para os pedestres, porque na saída da escola vários alunos ficam parados na faixa e impedem o tráfego. Quando eles passaram a olhar para o robô e ler a mensagem, eles também começaram a respeitar e sair discretamente.
-
-Nós percebemos que educar é preciso. Mesmo tendo ideia das regras de trânsito, um alerta facilita no dia a dia. Isso gera um trabalho de conscientização de cada indivíduo.
-
-Para desenvolver esse projeto, trabalhamos metodologia ativa na veia e utilizamos aprendizagem baseada em problemas. Os alunos também tiveram que desenvolver uma série de competências, como observação do meio, criatividade, trabalho em equipe e tomada de decisão, já que eles tiveram que escolher o melhor projeto para ser apresentado na Bett Educar, em São Paulo (SP). A iniciativa apresentada foi desenvolvida pelos alunos Mateus Alves e Marcele Medeiros, com apoio dos professores Ramon Felizardo e Rubenho Cunha.
+Professores denunciam más condições de trabalho na rede pública de São Paulo – Rede Brasil Atual
+Profissionais de ensino citam efeitos do fechamento de salas e falam sobre a falta de estrutura e até de merenda.

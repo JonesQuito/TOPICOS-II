@@ -1,23 +1,13 @@
-Educação pelo Brasil – nº 212
+Projeto leva pensamento computacional e robótica para escolas públicas de São Paulo
 
+A partir do segundo semestre de 2018, as aulas de pensamento computacional e robótica serão integradas ao currículo de dez escolas da rede estadual de São Paulo. A ação faz parte do projeto RoboLab – Conectando a Educação ao Futuro, iniciativa que leva aulas e oficinas de letramento digital para alunos do ensino fundamental e médio. Anunciado nesta quinta-feira (5), o piloto é resultado de uma parceria entre a Secretaria Estadual de Educação, a empresa de tecnologia Qualcomm e o Grupo +Unidos.
 
-Fundo Penitenciário Nacional vai destinar R$ 24 milhões para educação da população carcerária – Radioagência Nacional
-Atualmente o Brasil tem uma população carcerária em torno de 720 mil presos. Destes, somente 12% estudam.
+Para incentivar que as escolas trabalhem computação de forma alinhada ao currículo escolar, o projeto irá formar professores de diferentes áreas de conhecimento e equipar todas as unidades com um laboratório de robótica, incluindo dispositivos e ferramentas conectadas à banda larga móvel da rede 4G.
+As instituições de ensino selecionadas para participar do projeto piloto estão na região sul da capital paulista. São elas as escolas estaduais: Emanoel Alves de Araújo, Dr. Carlos Augusto de Freitas Villalva Jr., Professora Heloisa Carneiro, Pastor Waldemar Rodrigues da Silva, Doutor Clóvis de Oliveira, Santo Dias da Silva, Professora Maria Juvenal Homem de Mello, Paulino Nunes Esposo, Professor José Duarte Júnior e Mário Lopes Leão.
+As primeiras oficinas e encontros de formação de professores começaram a acontecer em junho. Até o fim do ano, enquanto participam de formações, os professores indicados por essas escolas irão desenvolver 12 oficinas, em que serão tratados temas como introdução ao pensamento computacional, Arduino, elétrica e eletrônica básica, robótica e design thinking. Em novembro, os alunos também têm a chance de participar de uma competição que irá premiar os projetos de robótica desenvolvidos durante os encontros e atividades do RoboLab. “A ideia é que os cursos aconteçam durante o turno regular para complementar o aprendizado de outras matérias”, destaca Jaqueline Lee, diretora de marketing da Qualcomm.
 
-A ciência perdida no incêndio do Museu Nacional – El País
-Além do fóssil mais antigo das Américas, local abrigava registros não digitalizados de línguas nativas que já não existem mais.
+O projeto de levar atividades de letramento digital para as escolas, conforme avalia Liliane Costa, diretora do Centro de Estudo de Tecnologias da Secretaria de Educação do Estado de São Paulo, está alinhado com as dez competências gerais da BNCC (Base Nacional Comum Curricular). “Está bem articulado para pensar como a tecnologia entra no dia a dia da escola sem ser um conteúdo a parte. O professor consegue trabalhar o que ele precisa desenvolver ao longo dos dias letivos, articulando isso com a programação. Ele pode pensar em uma solução para um problema da escola”, exemplifica.
 
-O que é “Momo”? Perigos e instruções – Carta Educação
-Pais, mães e educadores podem e devem atuar nessas situações, mas com muita cautela.
+Durante o anúncio da parceria, Rafael Steinhauser, vice-presidente sênior e presidente da Qualcomm para América Latina, também afirmou que a iniciativa contribui para que crianças e adolescentes desenvolvam competências importantes para a vida no século 21. Além disso, ele menciona que é fundamental levar projetos como esse para a escola pública para utilizar a tecnologia como um instrumento para promover a equidade. “Se para os alunos do ensino público eu não der as mesmas ferramentas e contextos que os meninos do ensino privado têm, não só ampliamos o desafio, mas também contribuímos com o desequilíbrio e desigualdade no Brasil.”
 
-A professora transexual que trocou indenização de R$ 20 mil pela chance de dar aula a seus agressores – G1
-Natalha Claudinei Silva Nascimento acionou a Justiça por ter sido xingada e agredida em uma pastelaria de Brasília; mas a reparação veio na forma de uma sessão, cara a cara, sobre direitos humanos e questões de gênero.
-
-Especialistas questionam critério mais rígido do MEC para nota do Saeb – EBC
-De acordo com a nova classificação divulgada pelo MEC, até o nível 3 o aprendizado é considerado insuficiente e até o 6, básico.
-
-Alemanha tem déficit de 40 mil professores; ‘quadro é dramático’, diz presidente de associação – G1
-Cenário pode se agravar nos próximos anos. Uma controversa solução seria permitir que pessoas sem formação na área se tornem educadores.
-
-Professores denunciam más condições de trabalho na rede pública de São Paulo – Rede Brasil Atual
-Profissionais de ensino citam efeitos do fechamento de salas e falam sobre a falta de estrutura e até de merenda.
+Para o secretário estadual de educação João Cury Neto, a iniciativa também pode ser uma forma de dialogar com os interesses dos estudantes. “Isso vem ao encontro do que os nossos alunos esperam da escola pública. Em uma pesquisa em que ouvimos os alunos, eles dizem sem constrangimento que a escola atual é chata, não faz sentido”, afirma. Em fase inicial, o projeto depende do impacto nas dez escolas que participam do piloto para que seja expandido gradualmente para toda rede.
