@@ -6,3 +6,11 @@
 #### - Educação
 #### - Saúde
 #### - Política
+
+
+`create table database_text
+(
+	id serial primary key,
+	classe varchar(30),
+	narrativa text
+);`
