@@ -53,7 +53,15 @@ Agora, após o ambiente ter sido devidamente preparado, podemos executar o proje
 	- Saúde
 	- Política
 O `dataset_txt` é o nosso dataset, é o conjunto de dados usado para treinar os nossos classificadores. Ele contém 5 subdiretórios que representam as 5 classes de texto possíves. Dentro de cada diretório há vários textos da classe correspondente ao nome do diretório.  
-Na raíz do projeto também temos o diretório `modulos` que contém alguns arquivos com funções python últeis para nosso projeto, como exemplo, temos funções para listar todos os arquivos de um dado diretório passado como parâmetro da função.
+
+Na raíz do projeto também temos o diretório `modulos` que contém módulos como `file.py` contendo funções para manipular arquivos, como exemplo, temos a função `getAllFiles(path)` que retorna uma lista com todos os arquivos encontrados no diretório passado como argumento da função. Outra função importante do módulo `file.py` é a `getDirectories(path, index)`, ela lista os subdiretórios de um diretório passado como argumento. 
+
+No referido módulo também temos a função `cleaner(text)` que recebe um texto e remove todos os caracteres que não sejam letras do alfabeto português, remove palavras formadas por menos que 2 caracteres e stop words, além de reduzir as palavras ao seu radical. 
+
+Finalmente, após o ambiente preparado e os principais componentes da estrutura do projeto compreendidos, vamos executar os notebooks para ver e compreender as etapas do processo de classificação de textos com ntlk e scikit-learn.
+
+- A
+	
 
 
 `create table database_text
