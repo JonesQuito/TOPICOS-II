@@ -38,6 +38,7 @@
 	- `pip install matplotlib`
 	- `pip install -U scikit-learn`
 
+---
 Agora, após o ambiente ter sido devidamente preparado, podemos executar o projeto, mas antes vamos entender como o mesmo está estruturado. Dentro do diretório do projeto `TOPICOS-II` temos alguns diretórios e arquivos necessários para o funcionamento projeto.<b Vamo
 
 
