@@ -1,14 +1,17 @@
 # Classificação de textos com nltk e scikit-learn
+
 ## Preparando o ambiente
 	### Pré requisitos
 	[] python
 	[] postgres
+	[] virtualenv
 	[] jupyter-notebook
-	[] scikit-learn
+	[] psycopg2
 	[] nltk
 	[] pandas
 	[] matplotlib
-	[] psycopg2
+	[] scikit-learn
+	
 
 - Primeiramente sertifique-se de está com o python 3.x instalado na máquina (Foi testado no python 3.7)
 
@@ -23,6 +26,17 @@
 	
 - Faça o clone do projeto dentro do ambiente virtual criado no passo anterior. Use o seguint comando no git bash:
 	`git clone https://github.com/JonesQuito/TOPICOS-II.git`
+
+- Navegue para dentro do seu ambiente virtual criado anteriormente e ative-o(cmd)
+	- `Scripts\activate`
+
+- Com o ambiente virtual ativo, instale as bibliotecas necessárias para o projeto
+	- `pip install jupyter`
+	- `pip install psycopg2`
+	- `pip install nltk`
+	- `pip install pandas`
+	- `pip install matplotlib`
+	- `pip install -U scikit-learn`
 
 
 ### Base_de_dados_de_textos esta organizada nas seguintes categorias:
