@@ -12,7 +12,7 @@
 	[] matplotlib
 	[] scikit-learn
 	
-
+---
 - Primeiramente sertifique-se de está com o python 3.x instalado na máquina (Foi testado no python 3.7)
 
 - Instale o SGBD postgres e o pgadmin
@@ -37,6 +37,8 @@
 	- `pip install pandas`
 	- `pip install matplotlib`
 	- `pip install -U scikit-learn`
+
+Agora, após o ambiente ter sido devidamente preparado, podemos executar o projeto, mas antes vamos entender como o mesmo está estruturado. Dentro do diretório do projeto `TOPICOS-II` temos alguns diretórios e arquivos necessários para o funcionamento projeto.<b Vamo
 
 
 ### Base_de_dados_de_textos esta organizada nas seguintes categorias:
