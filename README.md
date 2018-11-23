@@ -60,7 +60,27 @@ No referido módulo também temos a função `cleaner(text)` que recebe um texto
 
 Finalmente, após o ambiente preparado e os principais componentes da estrutura do projeto compreendidos, vamos executar os notebooks para ver e compreender as etapas do processo de classificação de textos com ntlk e scikit-learn.
 
-- A
+- Abrir e executar o notebook *01_criar_tabelas*
+	- Vai abrir uma conexão com o banco de dados e executar o script SQL responsável por criar a tabela *database_text* que vai armazenar o dataset de treinamento
+
+
+- Abrir e executar o notebook *02_inserindo_dados_no_bd*
+	- Primeiro vai instalar algumas funcionalidade do *nltk*
+	- Listar os diretórios do *dataset_tx*
+	- Finalmente vai percorrer todos os textos dentro de cada diretório do dataset_txt fazer o pré-processamento(limpeza) e inserir no banco de dados.
+
+
+- Abrir e executar o notebook *03_explorando_os_dados*
+	- Aqui será executada uma consulta no banco de dados e com o retorno dessa consulta será criado um DataFrame do pandas.
+	- A biblioteca **matplotlib** é usada para plotar dois gráficos mostrando a distribuição dos documentos nas respectivas classes.
+
+
+- Abrir e executar o notebook *04_classificando_textos*
+	- Um dataframe do pandas é criado com dados vindos de uma consulta ao banco
+	- Alguns ajustes são feitos sobre o dataframe
+	- São instanciados dois classificadores: **[MultinomialNB, LinearSVC]**
+	- Os classificadores são testados com alguns textos de exemplo
+
 	
 
 
