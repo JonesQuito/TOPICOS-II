@@ -1,6 +1,8 @@
 # Classificação de textos com nltk e scikit-learn
 
 ## Preparando o ambiente
+
+### Pré requisitos
 	### Pré requisitos
 	[] python
 	[] postgres
