@@ -15,6 +15,7 @@
 	[] scikit-learn
 	
 ---
+### Etapas de preparação do ambiente
 - Primeiramente sertifique-se de está com o python 3.x instalado na máquina (Foi testado no python 3.7)
 
 - Instale o SGBD postgres e o pgadmin
@@ -41,15 +42,16 @@
 	- `pip install -U scikit-learn`
 
 ---
-Agora, após o ambiente ter sido devidamente preparado, podemos executar o projeto, mas antes vamos entender como o mesmo está estruturado. Dentro do diretório do projeto `TOPICOS-II` temos alguns diretórios e arquivos necessários para o funcionamento projeto.<b Vamo
+### Descrição do projeto
+Agora, após o ambiente ter sido devidamente preparado, podemos executar o projeto, mas antes vamos entender como o mesmo está estruturado. Dentro do diretório do projeto `TOPICOS-II` temos alguns diretórios e arquivos necessários para o funcionamento projeto. &nbsp; Vamos começão pelo diretório `dataset_txt`: &nbsp;
 
 
-### Base_de_dados_de_textos esta organizada nas seguintes categorias:
-#### - Religião
-#### - Esportes
-#### - Educação
-#### - Saúde
-#### - Política
+	#### Base_de_dados_de_textos
+		- Religião
+		- Esportes
+		- Educação
+		- Saúde
+		- Política
 
 
 `create table database_text
