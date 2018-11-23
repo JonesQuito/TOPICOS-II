@@ -43,15 +43,19 @@
 
 ---
 ### Descrição do projeto
-Agora, após o ambiente ter sido devidamente preparado, podemos executar o projeto, mas antes vamos entender como o mesmo está estruturado. Dentro do diretório do projeto `TOPICOS-II` temos alguns diretórios e arquivos necessários para o funcionamento projeto. &nbsp; Vamos começão pelo diretório `dataset_txt`: &nbsp;
+Agora, após o ambiente ter sido devidamente preparado, podemos executar o projeto, mas antes vamos entender como o mesmo está estruturado. Dentro do diretório do projeto `TOPICOS-II` temos alguns diretórios e arquivos necessários para o funcionamento projeto. Vamos começar pelo diretório `dataset_txt`: &nbsp;
 
 
-	#### Base_de_dados_de_textos
-		- Religião
-		- Esportes
-		- Educação
-		- Saúde
-		- Política
+	#### dataset_txt
+	- Religião
+	- Esportes
+	- Educação
+	- Saúde
+	- Política
+O `dataset_txt` é o nosso dataset, é o conjunto de dados usado para treinar os nossos classificadores. Ele contém 5 subdiretórios que representam as 5 classes de texto possíves. Dentro de cada diretório há vários textos da classe correspondente ao nome do diretório.
+&nbsp;
+&nbsp;
+Na raíz do projeto também temos o diretório `modulos` que contém alguns arquivos com funções python últeis para nosso projeto, como exemplo, temos funções para listat todos os arquivos de um dado diretório passado como parâmetro da função.
 
 
 `create table database_text
